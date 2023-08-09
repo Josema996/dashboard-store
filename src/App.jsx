@@ -15,7 +15,7 @@ function App() {
   }
 
   const toggleOrders = () => {
-    setShowOrder(!setShowOrder);
+    setShowOrder(!showOrder);
     setShowMenu(false);
   }
 
